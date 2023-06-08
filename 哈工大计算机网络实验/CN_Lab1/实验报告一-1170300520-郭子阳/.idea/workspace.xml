@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69b0c642-940a-4d96-ac3a-df2fa7fcdb00" name="Default Changelist" comment="Lab1实现了HTTPS（确信）">
+      <change afterPath="$PROJECT_DIR$/~$机网络实验一.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/guoziyang/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/guoziyang/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/计算机网络实验一.docx" beforeDir="false" afterPath="$PROJECT_DIR$/计算机网络实验一.docx" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1STEqfZNhmCMN4sV2C7VdEN8U5U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.guoziyang.Main" />
+      <module name="CN_Lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.guoziyang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69b0c642-940a-4d96-ac3a-df2fa7fcdb00" name="Default Changelist" comment="" />
+      <created>1571579378130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571579378130</updated>
+      <workItem from="1571579382114" duration="11407000" />
+      <workItem from="1571623884480" duration="2133000" />
+      <workItem from="1571631479875" duration="1022000" />
+      <workItem from="1571632699516" duration="669000" />
+      <workItem from="1571671781779" duration="234000" />
+      <workItem from="1571672051404" duration="1792000" />
+      <workItem from="1571702754240" duration="2476000" />
+      <workItem from="1571709375642" duration="6216000" />
+      <workItem from="1571731487105" duration="3545000" />
+      <workItem from="1571742253970" duration="2240000" />
+      <workItem from="1571749878174" duration="7267000" />
+      <workItem from="1571759959958" duration="1305000" />
+      <workItem from="1571825420842" duration="423000" />
+      <workItem from="1571847598150" duration="787000" />
+      <workItem from="1571887631796" duration="716000" />
+      <workItem from="1571903853657" duration="2158000" />
+      <workItem from="1571910534758" duration="576000" />
+      <workItem from="1571911937063" duration="421000" />
+      <workItem from="1571985069963" duration="4191000" />
+      <workItem from="1571993924490" duration="1215000" />
+      <workItem from="1572012951727" duration="2823000" />
+      <workItem from="1572016330254" duration="137000" />
+      <workItem from="1572016582391" duration="460000" />
+      <workItem from="1572020469498" duration="89000" />
+      <workItem from="1572048155327" duration="5375000" />
+      <workItem from="1572055389830" duration="617000" />
+      <workItem from="1572058275776" duration="527000" />
+      <workItem from="1572348014971" duration="1116000" />
+    </task>
+    <task id="LOCAL-00001" summary="修正一些小错误">
+      <created>1571633826422</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571633826422</updated>
+    </task>
+    <task id="LOCAL-00002" summary="不知道干了什么">
+      <created>1571703771169</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571703771169</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lab1基本完成，需要优化速度">
+      <created>1571731522238</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571731522238</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Lab1优化速度（并没有）">
+      <created>1571735078323</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571735078323</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Lab1实现了对418状态码的支持（误）">
+      <created>1571753823567</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1571753823567</updated>
+    </task>
+    <task id="LOCAL-00006" summary="修改了缓冲池的大小">
+      <created>1571754333085</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1571754333085</updated>
+    </task>
+    <task id="LOCAL-00007" summary="添加了（并不）详实的注释和（并不）规范的Javadoc">
+      <created>1571906050166</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1571906050166</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Lab1基本最终版本">
+      <created>1571912321850</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1571912321850</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Lab1代码最终版本">
+      <created>1571992723280</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1571992723280</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Lab1实现了HTTPS（确信）">
+      <created>1572015729220</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1572015729221</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="修正一些小错误" />
+    <MESSAGE value="不知道干了什么" />
+    <MESSAGE value="Lab1基本完成，需要优化速度" />
+    <MESSAGE value="Lab1优化速度（并没有）" />
+    <MESSAGE value="Lab1实现了对418状态码的支持（误）" />
+    <MESSAGE value="修改了缓冲池的大小" />
+    <MESSAGE value="添加了（并不）详实的注释和（并不）规范的Javadoc" />
+    <MESSAGE value="Lab1基本最终版本" />
+    <MESSAGE value="Lab1代码最终版本" />
+    <MESSAGE value="Lab1实现了HTTPS（确信）" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab1实现了HTTPS（确信）" />
+  </component>
+</project>
